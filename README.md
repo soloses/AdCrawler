@@ -1,5 +1,3 @@
-Berikut adalah README.md yang diperbarui sesuai dengan informasi yang Anda berikan:
-
 # Admin Crawler v1
 
 Admin Crawler v1 is a Python script designed to search for admin panels on a website using a predefined wordlist.
