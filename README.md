@@ -1,3 +1,5 @@
+Berikut adalah README.md yang diperbarui sesuai dengan informasi yang Anda berikan:
+
 # Admin Crawler v1
 
 Admin Crawler v1 is a Python script designed to search for admin panels on a website using a predefined wordlist.
@@ -27,8 +29,8 @@ Installation
 
 	1.	Clone this repository:
 
-git clone https://github.com/username/admin-crawler.git
-cd admin-crawler
+git clone https://github.com/soloses/AdCrawler.git
+cd AdCrawler
 
 	2.	Ensure you have a wordlist.txt file in the same directory as the script. This file should contain a list of paths to search for the admin panel, one per line. Example:
 
