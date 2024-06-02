@@ -2,7 +2,6 @@ import os
 import requests
 from colorama import init, Fore
 
-# Inisialisasi colorama
 init()
 
 def print_ascii():
